@@ -49,6 +49,8 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamiAlmnyry&show_icons=true&theme=github_dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAlmnyry&layout=compact&theme=github_dark" width="48%" />
