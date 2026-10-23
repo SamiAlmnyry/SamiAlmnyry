@@ -47,7 +47,9 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiAlmnyry&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAlmnyry&layout=compact&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiAlmnyry&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAlmnyry&layout=compact&theme=github_dark" width="48%" />
 </p>
